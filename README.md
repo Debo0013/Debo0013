@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Debabrata</h1>
 
 
 <div id="header" align="center">
