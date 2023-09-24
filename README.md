@@ -45,7 +45,9 @@
   <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" title="Matplotlib"  alt="Matplotlib" width="90" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn"  alt="Seaborn" width="100" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/663px-Jupyter_logo.svg.png" title="Jupyter Notebook"  alt="Jupyter Notebook" width="50" height="55"/>&nbsp;
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
   <div align="center">
