@@ -47,8 +47,8 @@
 
   <div align="left">
   <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Debo0013&show_icons=true&theme=nord" alt="GitHub Stats">
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Debo0013&show_icons=true&theme=algolia" alt="GitHub Stats">
+  </div>
 
 ---
 
