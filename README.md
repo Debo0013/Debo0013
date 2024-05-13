@@ -15,7 +15,7 @@
   🌱 I am diligently enhancing my expertise in <b>Python</b>, <b>SQL</b>, <b>data visualisation techniques</b>, and <b>Tableau</b>. 
   Continuously seeking opportunities to broaden my skill set, I approach each encounter as a pathway to 
   personal and professional growth. My commitment lies in mastering a diverse array of tools and techniques 
-  within the domain of Data and Analytics (Analyst@Zigram)
+  within the domain of Data and Analytics (Data Analyst @ Facctum)
   
   💬 Feel free to reach out for inquiries or to collaborate on projects related to the domain of data and I'll be happy to discuss!
   
