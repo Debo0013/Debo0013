@@ -5,7 +5,7 @@
   <img src="https://i.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.webp" width="400" height="300" style="display: inline-block;">
 </div>
 
-  <h1>Insight Alchemist 📊 | Code Enthusiast 💻 | Data Seeker🌐 | Python Admirer🐍 | SQL Buff📜 | Visualization Artist📈</h1>
+  <h1>Aspiring Data Analyst | Enthusiastic Coder | SQL Learner | Python Enthusiast | Visualization </h1>
   <h3>Embarking on an analytical voyage, adapt to the art of data manipulation and code mastery.</h3>
 
   <img src="https://komarev.com/ghpvc/?username=Debo0013&color=17A589&style=for-the-badge" alt="Profile Views">
