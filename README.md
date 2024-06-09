@@ -46,12 +46,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
+<details>
+   <summary>Highlights 📌</summary>
+   <br/>
+   <a href="https://github.com/Debo0013/Portfolio">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Debo0013&repo=Portfolio&theme=default" />
+   </a>
+</details>
+
   <div align="left">
   <h2>GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Debo0013&show_icons=true&theme=algolia" alt="GitHub Stats">
 </div>
 
----
+----
 
 <p align="center">
   Let's embark on this journey together! 🚀
