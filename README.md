@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" title="Tableau"  alt="Tableau" width="110" height="30"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy"  alt="NumPy" width="80" height="40"/>&nbsp;
+  <img src="icons/pandas/pandas-plain.svg" title="Pandas"  alt="Pandas" width="80" height="40"/>&nbsp;
   <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" title="Matplotlib"  alt="Matplotlib" width="90" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn"  alt="Seaborn" width="100" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/663px-Jupyter_logo.svg.png" title="Jupyter Notebook"  alt="Jupyter Notebook" width="50" height="55"/>&nbsp;
