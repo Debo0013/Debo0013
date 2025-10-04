@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/l0HlMldqhAt3QYEh2/giphy.webp" width="400" height="300" style="display: inline-block;">
-  <img src="https://i.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.webp" width="400" height="230" style="display: inline-block;">
+  <img src="https://i.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.webp" width="400" height="225" style="display: inline-block;">
 </div>
 
   <h1>Data & AI Enthusiast | Exploring the Future of Intelligent Systems</h1>
