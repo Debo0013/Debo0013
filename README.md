@@ -5,8 +5,8 @@
   <img src="https://i.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.webp" width="400" height="300" style="display: inline-block;">
 </div>
 
-  <h1>Aspiring Data Analyst | Enthusiastic Coder | SQL Learner | Python Enthusiast | Visualization </h1>
-  <h3>Embarking on an analytical voyage, adapt to the art of data manipulation and code mastery.</h3>
+  <h1>Data & AI Enthusiast | Exploring the Future of Intelligent Systems</h1>
+  <h3>Passionate about building data-driven solutions and exploring the potential of intelligent systems.</h3>
 
   <img src="https://komarev.com/ghpvc/?username=Debo0013&color=17A589&style=for-the-badge" alt="Profile Views">
   
