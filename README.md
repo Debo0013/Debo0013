@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW81MXpqYmo0YmkxN2FpcGx1cGg0ajY2Z2VhY2N2dnVraG9heGJ2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="400" height="300" style="display: inline-block;">
-  <img src="https://i.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.webp" width="400" height="225" style="display: inline-block;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRnc2RiYm96ZmZqNzRxOGFtOHd0eHhxancxenI3NzlsMjBuM3dqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif" width="400" height="225" style="display: inline-block;">
 </div>
 
   <h1>Data & AI Enthusiast | Exploring the Future of Intelligent Systems</h1>
