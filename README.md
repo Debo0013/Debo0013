@@ -34,16 +34,15 @@
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"  alt="Python" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" title="Tableau"  alt="Tableau" width="110" height="30"/>&nbsp;
+  <img src="https://www.figma.com/community/file/1191778785581762270/aws-logo" title="AWS"  alt="AWS" width="110" height="30"/>&nbsp;
+    <img src="https://www.outsystems.com/forge/component-overview/16676/amazon-bedrock-connector-o11" title="AWS Bedrock"  alt="AWS Bedrock" width="80" height="40"/>&nbsp;
+    <img src="https://aws.plainenglish.ios3-vector-database-amazons-ai-storage-play-the-real-story-de40cfdd297e" title="S3 Vector DB"  alt="S3 Vector DB" width="80" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy"  alt="NumPy" width="80" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1024px-Pandas_logo.svg.png" title="Pandas"  alt="Pandas" width="80" height="40"/>&nbsp;
   <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" title="Matplotlib"  alt="Matplotlib" width="90" height="40"/>&nbsp;
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn"  alt="Seaborn" width="100" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/663px-Jupyter_logo.svg.png" title="Jupyter Notebook"  alt="Jupyter Notebook" width="50" height="55"/>&nbsp;
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg" title="Git" alt="Git" width=40 height=40/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+
 </div>
 
 <details>
