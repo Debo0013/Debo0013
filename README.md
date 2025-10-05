@@ -30,21 +30,19 @@
   </a>
 </p>
 
-  <h3>Languages and Tools:</h3>
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"  alt="Python" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" title="Tableau"  alt="Tableau" width="110" height="30"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy"  alt="NumPy" width="80" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1024px-Pandas_logo.svg.png" title="Pandas"  alt="Pandas" width="80" height="40"/>&nbsp;
-  <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" title="Matplotlib"  alt="Matplotlib" width="90" height="40"/>&nbsp;
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn"  alt="Seaborn" width="100" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/663px-Jupyter_logo.svg.png" title="Jupyter Notebook"  alt="Jupyter Notebook" width="50" height="55"/>&nbsp;
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg" title="Git" alt="Git" width=40 height=40/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-</div>
+### 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Vector Database](https://img.shields.io/badge/Vector%20DB-000000?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <details>
    <summary>Highlights 📌</summary>
